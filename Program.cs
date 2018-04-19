@@ -21,9 +21,9 @@ namespace CheckFieldPopulation
 
             LoginResult lr = service.login("sean.fife@consultant.aecom.com.epm4", "Donkey1979!");
 
-            service.SessionHeaderValue = new SessionHeader();
-            service.SessionHeaderValue.sessionId = lr.sessionId;
-            service.Url = lr.serverUrl;
+            //service.SessionHeaderValue = new SessionHeader();
+            //service.SessionHeaderValue.sessionId = lr.sessionId;
+            //service.Url = lr.serverUrl;
 
             //DescribeGlobalResult dgr = service.describeGlobal();
 
