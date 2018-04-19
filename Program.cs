@@ -25,7 +25,7 @@ namespace CheckFieldPopulation
             //service.SessionHeaderValue.sessionId = lr.sessionId;
             //service.Url = lr.serverUrl;
 
-            //DescribeGlobalResult dgr = service.describeGlobal();
+            DescribeGlobalResult dgr = service.describeGlobal();
 
             using (StreamWriter sw = new StreamWriter(@"C:\Users\SeanFife\Desktop\ePM_pse\psePopulation.csv"))
             {
