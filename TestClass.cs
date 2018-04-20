@@ -8,8 +8,6 @@ namespace CheckFieldPopulation
 {
     class TestClass
     {
-        public void existingFunction()
-        }
         public void existingFunctionToDelete()
         {
             int y = 2;
