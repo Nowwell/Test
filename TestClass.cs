@@ -22,5 +22,18 @@ namespace CheckFieldPopulation
                 x = 2;
             }
         }
+
+        public void addThis()
+        {
+            int z = 3;
+            for (int i = 0; i < z; i++)
+            {
+            }
+
+            if (q > 3)
+            {
+                q = 2;
+            }
+        }
     }
 }
