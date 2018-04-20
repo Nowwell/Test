@@ -8,7 +8,7 @@ namespace CheckFieldPopulation
 {
     class TestClass
     {
-        public void ToDelete()
+        public void toDelete()
         {
             int y = 2;
             y++;
