@@ -8,7 +8,6 @@ namespace CheckFieldPopulation
 {
     class TestClass
     {
-        public void existingFunctionToDelete()
         public void ToDelete()
         {
             int y = 2;
@@ -16,11 +15,10 @@ namespace CheckFieldPopulation
         }
 
         public void existingFunction()
-        public void addThis()
         {
             int x = 1;
-            int z = 3;
-        }
+            if (x > 3)
+            {
                 x = 2;
             }
         }
