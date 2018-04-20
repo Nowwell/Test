@@ -8,5 +8,9 @@ namespace CheckFieldPopulation
 {
     class TestClass
     {
+        public void addThis()
+        {
+
+        }
     }
 }
