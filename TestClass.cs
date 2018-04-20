@@ -10,7 +10,6 @@ namespace CheckFieldPopulation
     {
         public void existingFunction()
         {
-
             int x = 1;
         }
 
