@@ -11,16 +11,22 @@ namespace CheckFieldPopulation
         public void existingFunction()
         {
 
+            int x = 1;
         }
 
         public void existingFunctionToDelete()
-        public void addThis()
         {
-
+            int y = 2;
         }
 
+        public void addThis()
         {
+            int z = 3;
+        }
 
+        public void dontAddThis()
+        {
+            int q = 4;
         }
 
     }
