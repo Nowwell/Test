@@ -19,15 +19,6 @@ namespace CheckFieldPopulation
             int y = 2;
         }
 
-        public void addThis()
-        {
-            int z = 3;
-        }
-
-        public void dontAddThis()
-        {
-            int q = 4;
-        }
 
     }
 }
