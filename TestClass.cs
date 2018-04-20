@@ -9,10 +9,10 @@ namespace CheckFieldPopulation
     class TestClass
     {
         public void existingFunctionToDelete()
-        public void existingFunction()
+        public void ToDelete()
         {
             int y = 2;
-            int x = 1;
+            y++;
         }
 
         public void existingFunction()
@@ -21,6 +21,8 @@ namespace CheckFieldPopulation
             int x = 1;
             int z = 3;
         }
+                x = 2;
+            }
         }
     }
 }
